@@ -41,3 +41,17 @@
 
 # Libraries
 /lib
+
+# Build output / caches (added in cleanup)
+Debug/
+Release/
+*.o
+*.d
+*.su
+*.elf
+*.map
+*.list
+*.log
+.DS_Store
+Thumbs.db
+desktop.ini
